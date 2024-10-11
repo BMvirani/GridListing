@@ -1,6 +1,6 @@
 1. Install Node Modules
 npm install
-# or
+ or
 yarn install
 
 2. Set the Environment Variable 
@@ -10,5 +10,5 @@ API_BASE_URL=https://dummyjson.com/
 
 3. Run the Project
 npm run dev
-# or
+ or
 yarn dev
