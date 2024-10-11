@@ -55,3 +55,11 @@ body {
   border-radius: 10px;
   height: 179px !important;
 }
+
+
+@media (max-width:420px) {
+  .css-tdnytb-MuiButtonBase-root-MuiPaginationItem-root {
+    min-width: 21px !important;
+    height: 24px !important;
+  }
+}
